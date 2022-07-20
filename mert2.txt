@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Moin, ich war hier
+=======
+Hallo, Mert war hier.
+>>>>>>> d4df29876b3c9f9881a90b195cd44b677f6081b1
